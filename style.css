@@ -1,0 +1,52 @@
+* {
+    margin: 0%;
+    top: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+
+.veiculo{
+    background-color: #fefefe;
+    border-radius: 20px;
+
+    display: block;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+
+    margin-top: 10%;
+    max-width: 35%;
+    padding: 80px 10px;
+}
+
+
+.marca{
+    margin-top: 30px;
+    
+}
+
+.inputMarca{
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+.inputModelo{
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+.modelo{
+    margin-top: 30px;
+}
+
+.botao{
+    background-color: white;
+    margin-top: 30px;
+    border: 2px solid;
+    border-radius: 20px;
+    
+}
